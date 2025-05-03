@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+button {
+  position: absolute;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s;
+  bottom: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#move-left {
+  left: 20px;
+}
+#move-right {
+  right: 20px;
+}
