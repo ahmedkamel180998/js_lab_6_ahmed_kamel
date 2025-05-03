@@ -1,3 +1,3 @@
-## lab_3_car_js[/car.js]
+# lab 6 [Js Code](car.js)
 
 ---
